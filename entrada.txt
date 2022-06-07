@@ -1,0 +1,8 @@
+a b c
+0 0 a z0 az0
+0 0 a a aa
+0 1 b a a
+1 1 c a ε
+1 2 c z0 z0
+1 2 ε z0 z0
+2 2 c z0 z0
